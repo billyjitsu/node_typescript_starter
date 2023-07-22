@@ -62,6 +62,11 @@
     "@nomiclabs/hardhat-ethers" "^2.1.0"
     node-fetch "^2.6.6"
 
+"@biconomy/paymaster@^3.0.0-alpha.0":
+  version "3.0.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@biconomy/paymaster/-/paymaster-3.0.0-alpha.0.tgz#4bf33e8c42bf44ab6715e7d79df3a7d300d45b32"
+  integrity sha512-spdx9cs0CF34YpcFpMBNl6ks14+7Dy2wiqGN5qBvrCepZyuyfsd6RD1DqC4Lwr7E8OsxpljPkTv0kNzfPF4NXg==
+
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@cspotcode/source-map-support/-/source-map-support-0.8.1.tgz#00629c35a688e05a88b1cda684fb9d5e73f000a1"
